@@ -10,4 +10,4 @@ Halo Semua Mahasiswa D3 Teknologi Telekomunikasi
 
 ## Forum Diskusi
 
-Silahkan menuju [forum diskusi](https://github.com/AhmadMahmuda/forum/discussions) untuk bertanya atau berdiskusi seputar D3TT dengan pengguna lain. Mari saling berbagi ilmu!
+Silahkan menuju [forum diskusi](https://github.com/AhmadMahmuda/discussions) untuk bertanya atau berdiskusi seputar D3TT dengan pengguna lain. Mari saling berbagi ilmu!
