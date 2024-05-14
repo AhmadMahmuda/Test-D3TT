@@ -7,3 +7,7 @@ Halo Semua Mahasiswa D3 Teknologi Telekomunikasi
 1. Lulusan SMA/SMK/MA/Sederajat
 2. Memiliki salinan ijazah, transkrip akademik, dan sertifikat keiikutsertaan kejuaraan nasional maupun internasional*
 3. Memiliki Surat Penyetaraan Ijazah dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia bagi pendaftar lulusan luar negeri atau homeschooling. Klik disini untuk informasi selengkapnya
+
+## Forum Diskusi
+
+Silahkan menuju [forum diskusi](https://github.com/AhmadMahmuda/forum/discussions) untuk bertanya atau berdiskusi seputar AWS dengan pengguna lain. Mari saling berbagi ilmu!
